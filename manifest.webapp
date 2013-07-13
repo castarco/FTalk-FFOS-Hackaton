@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "name": "Ftalk",
+    "launch_path": "index.html",
+    "description": "Simply and Sexy IM",
+    "icons": {
+    },
+    "developer": {
+        "name": "Okarin&pakmanlh&castarco&fsero",
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
