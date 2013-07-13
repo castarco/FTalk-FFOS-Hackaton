@@ -42,6 +42,7 @@
 				msg: $('#message').val()
 			});
 
+			$("#nick-box").hide();
 			$('#message').val('');
 
 			return false;
