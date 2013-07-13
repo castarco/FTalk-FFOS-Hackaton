@@ -13,12 +13,14 @@
     <div id="wrapper">
       <h1>Simple FTalk</h1>
       <div id="messages"></div>
-      <div class="nic">
-        Your Nick
-        <input id="name" name="name" type="text"/>
+      <div id="wrapper_chat_screen">
+        <div class="nic">
+          Your Nick
+          <input id="name" name="name" type="text"/>
+        </div>
+        <textarea id="message"></textarea>
+        <input id="send" type="submit" value="Send"/>
       </div>
-      <textarea id="message"></textarea>
-      <input id="send" type="submit" value="Send"/>
     </div>
     <script type="text/javascript">
       $(document).ready(function() {
