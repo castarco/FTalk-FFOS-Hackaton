@@ -1,9 +1,0 @@
-{
-  "amd": {},
-  "volo": {
-    "baseUrl": "www/js/lib",
-    "dependencies": {
-      "socket.io": "github:LearnBoost/socket.io/0.9.15"
-    }
-  }
-}
